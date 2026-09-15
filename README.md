@@ -15,12 +15,12 @@ internal AI assistant, integrated as both a Skill and an MCP server.
 
 | Project | What it is |
 |---------|-----------|
-| **[Turkcell-intern-trendbot](https://github.com/AhmetIrd/Turkcell-intern-trendbot)** | Hallucination-free tech-news aggregator — an RSS/API-grounded ETL pipeline that guarantees every cited URL is real and reachable. Built during my Turkcell internship. |
-| **[CyberTestify](https://github.com/AhmetIrd/CyberTestify)** | Automated web-security pre-assessment SaaS — tiered scans, deterministic evidence-linked reporting, and an autonomous AI red-team engine. Live commercial product. |
-| **[NoMoreLink](https://github.com/AhmetIrd/NoMoreLink)** | Full-stack digital business-card & link-in-bio platform (React + Firebase) with QR codes, per-visitor analytics, and 15+ language support. |
-| **[SmartMeet-AI](https://github.com/AhmetIrd/SmartMeet-AI)** | macOS app that turns Zoom recordings into structured summaries — on-device Whisper + GPT, privacy-first. Built with Flutter. |
-| **[X-Twitter-Bot](https://github.com/AhmetIrd/X-Twitter-Bot)** | Autonomous Python news bot — hourly RSS monitoring, GPT-4o summarization, neutral Turkish tweets with strict length and JSON validation. |
-| **[Auto-Gate](https://github.com/AhmetIrd/Auto-Gate)** | IoT smart-gate control — ESP32 + relay driven over HTTP from a Flutter mobile app. |
+| **[Turkcell-intern-trendbot](https://github.com/Ahmetlrd/Turkcell-intern-trendbot)** | Hallucination-free tech-news aggregator — an RSS/API-grounded ETL pipeline that guarantees every cited URL is real and reachable. Built during my Turkcell internship. |
+| **[CyberTestify](https://github.com/Ahmetlrd/CyberTestify)** | Automated web-security pre-assessment SaaS — tiered scans, deterministic evidence-linked reporting, and an autonomous AI red-team engine. Live commercial product. |
+| **[NoMoreLink](https://github.com/Ahmetlrd/NoMoreLink)** | Full-stack digital business-card & link-in-bio platform (React + Firebase) with QR codes, per-visitor analytics, and 15+ language support. |
+| **[SmartMeet-AI](https://github.com/Ahmetlrd/SmartMeet-AI)** | macOS app that turns Zoom recordings into structured summaries — on-device Whisper + GPT, privacy-first. Built with Flutter. |
+| **[X-Twitter-Bot](https://github.com/Ahmetlrd/X-Twitter-Bot)** | Autonomous Python news bot — hourly RSS monitoring, GPT-4o summarization, neutral Turkish tweets with strict length and JSON validation. |
+| **[Auto-Gate](https://github.com/Ahmetlrd/Auto-Gate)** | IoT smart-gate control — ESP32 + relay driven over HTTP from a Flutter mobile app. |
 
 ---
 
