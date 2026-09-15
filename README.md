@@ -1,21 +1,39 @@
-# Merhaba, ben Ahmet 👋
+# Hi, I'm Ahmet 👋
 
-Sabancı Üniversitesi Bilgisayar Mühendisliği öğrencisiyim. Yapay zeka
-uygulamaları, full-stack geliştirme ve IoT sistemleri üzerine projeler
-geliştiriyorum.
+Computer Science student at **Sabancı University**, building across AI
+applications, full-stack web, and embedded/IoT systems. I care about software
+that is honest by design — systems that verify what they claim instead of
+assuming it.
 
-🔭 **Şu an:** Turkcell'de AI Solutions Engineering stajı — kurumsal AI
-asistanı için kaynağı doğrulanabilir haber botu; Skill ve MCP olarak entegre edildi.
+🔭 **Currently:** Software Engineering Intern at **Turkcell** (AI Solutions
+Engineering) — built a source-verified news intelligence bot for the company's
+internal AI assistant, integrated as both a Skill and an MCP server.
 
-### 🚀 Öne çıkan projeler
-- **[Turkcell-intern-trendbot](https://github.com/AhmetIrd/Turkcell-intern-trendbot)** — Halüsinasyonsuz teknoloji haber botu: RSS/API tabanlı ETL pipeline, kaynağı doğrulanabilir raporlar
-- **CyberTestify** — Otomatik web güvenlik ön-değerlendirme SaaS: katmanlı tarama, AI destekli raporlama
-- **NoMoreLink** — Dijital kartvizit & link-in-bio platformu (React + Firebase, QR, analytics, çok dilli)
-- **SmartMeet-AI** — Cihaz-içi Zoom toplantı özetleyici (Whisper + GPT-4, Flutter)
-- **Auto-Gate** — IoT tabanlı akıllı kapı kontrol sistemi (Arduino + mobil uygulama)
+---
 
-### 🛠️ Teknolojiler
-`Python` · `JavaScript/TypeScript` · `React` · `FastAPI` · `Flutter` · `Firebase` · `LLM/AI` · `IoT`
+### 🚀 Featured projects
 
-### 📫 İletişim
+| Project | What it is |
+|---------|-----------|
+| **[Turkcell-intern-trendbot](https://github.com/AhmetIrd/Turkcell-intern-trendbot)** | Hallucination-free tech-news aggregator — an RSS/API-grounded ETL pipeline that guarantees every cited URL is real and reachable. Built during my Turkcell internship. |
+| **[CyberTestify](https://github.com/AhmetIrd/CyberTestify)** | Automated web-security pre-assessment SaaS — tiered scans, deterministic evidence-linked reporting, and an autonomous AI red-team engine. Live commercial product. |
+| **[NoMoreLink](https://github.com/AhmetIrd/NoMoreLink)** | Full-stack digital business-card & link-in-bio platform (React + Firebase) with QR codes, per-visitor analytics, and 15+ language support. |
+| **[SmartMeet-AI](https://github.com/AhmetIrd/SmartMeet-AI)** | macOS app that turns Zoom recordings into structured summaries — on-device Whisper + GPT, privacy-first. Built with Flutter. |
+| **[X-Twitter-Bot](https://github.com/AhmetIrd/X-Twitter-Bot)** | Autonomous Python news bot — hourly RSS monitoring, GPT-4o summarization, neutral Turkish tweets with strict length and JSON validation. |
+| **[Auto-Gate](https://github.com/AhmetIrd/Auto-Gate)** | IoT smart-gate control — ESP32 + relay driven over HTTP from a Flutter mobile app. |
+
+---
+
+### 🛠️ Tech I work with
+
+**Languages** · Python · TypeScript / JavaScript · Dart · C/C++ (Arduino)
+**Web & Backend** · React · Node.js · FastAPI · Flask · Firebase
+**AI / LLM** · OpenAI API · Whisper · agentic pipelines · MCP · RAG
+**Data** · Pandas · SciPy · statsmodels · SQLite / MySQL
+**Embedded** · ESP32 / ESP8266 · Arduino · UDP/UART · circuit design
+
+---
+
+### 📫 Reach me
+
 [LinkedIn](https://www.linkedin.com/in/ahmet-cavusoglu) · [nomorelink.com/ahmet_cavusoglu](https://www.nomorelink.com/ahmet_cavusoglu)
