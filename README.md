@@ -5,7 +5,10 @@ applications, full-stack web, and embedded/IoT systems. I care about software
 that is honest by design — systems that verify what they claim instead of
 assuming it.
 
-🔭 **Currently:** Software Engineering Intern at **Turkcell** (AI Solutions
+🔭 **Interests:** AI agents & LLM tooling, retrieval-grounded systems,
+full-stack products, and embedded/IoT.
+
+💼 **Recently:** Software Engineering Intern at **Turkcell** (AI Solutions
 Engineering) — built a source-verified news intelligence bot for the company's
 internal AI assistant, integrated as both a Skill and an MCP server.
 
